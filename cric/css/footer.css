@@ -1,0 +1,19 @@
+.footer{
+    background-color: dimgray;
+    padding: 30px 40px;
+    
+}
+.footer img{
+    width: 50%;
+    padding: 0;
+}
+
+.footer-parts{
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+}
+
+.footer-parts a{
+    color:#e7f4ff;
+}
